@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1496078299 source:c:\users\mariano d jeronimo\documents\utn_clases\workspace\parcial1_laboratorio1_2017\f_biblio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"f_biblio.h"
+
+1495943251 c:\users\mariano d jeronimo\documents\utn_clases\workspace\parcial1_laboratorio1_2017\funciones.h
+
+1495348658 c:\users\mariano d jeronimo\documents\utn_clases\workspace\parcial1_laboratorio1_2017\f_biblio.h
+
+1495950895 source:c:\users\mariano d jeronimo\documents\utn_clases\workspace\parcial1_laboratorio1_2017\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"f_biblio.h"
+	"asignarProyect.h"
+
+1496078299 source:c:\users\mariano d jeronimo\documents\utn_clases\workspace\parcial1_laboratorio1_2017\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"f_biblio.h"
+	"asignarProyect.h"
+
+1496078299 source:c:\users\mariano d jeronimo\documents\utn_clases\workspace\parcial1_laboratorio1_2017\asignarproyect.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"f_biblio.h"
+	"asignarProyect.h"
+
+1495962482 c:\users\mariano d jeronimo\documents\utn_clases\workspace\parcial1_laboratorio1_2017\asignarproyect.h
+
+1496105043 source:d:\mis documentos\parcial1_laboratorio1_2017\asignarproyect.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"f_biblio.h"
+	"asignarProyect.h"
+
+1496096191 d:\mis documentos\parcial1_laboratorio1_2017\funciones.h
+
+1496101860 d:\mis documentos\parcial1_laboratorio1_2017\f_biblio.h
+
+1496096191 d:\mis documentos\parcial1_laboratorio1_2017\asignarproyect.h
+
+1496105197 source:d:\mis documentos\parcial1_laboratorio1_2017\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"f_biblio.h"
+	"asignarProyect.h"
+
+1496104007 source:d:\mis documentos\parcial1_laboratorio1_2017\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"f_biblio.h"
+	"asignarProyect.h"
+
+1496103852 source:d:\mis documentos\parcial1_laboratorio1_2017\f_biblio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+	"f_biblio.h"
+
